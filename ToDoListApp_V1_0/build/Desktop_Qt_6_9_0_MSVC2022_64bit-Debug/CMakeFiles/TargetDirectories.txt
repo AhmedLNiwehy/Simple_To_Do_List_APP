@@ -1,0 +1,8 @@
+D:/QT/QT_Creator_WS/ToDoListApp_V1_0/build/Desktop_Qt_6_9_0_MSVC2022_64bit-Debug/CMakeFiles/ToDoListApp_V1_0.dir
+D:/QT/QT_Creator_WS/ToDoListApp_V1_0/build/Desktop_Qt_6_9_0_MSVC2022_64bit-Debug/CMakeFiles/edit_cache.dir
+D:/QT/QT_Creator_WS/ToDoListApp_V1_0/build/Desktop_Qt_6_9_0_MSVC2022_64bit-Debug/CMakeFiles/rebuild_cache.dir
+D:/QT/QT_Creator_WS/ToDoListApp_V1_0/build/Desktop_Qt_6_9_0_MSVC2022_64bit-Debug/CMakeFiles/list_install_components.dir
+D:/QT/QT_Creator_WS/ToDoListApp_V1_0/build/Desktop_Qt_6_9_0_MSVC2022_64bit-Debug/CMakeFiles/install.dir
+D:/QT/QT_Creator_WS/ToDoListApp_V1_0/build/Desktop_Qt_6_9_0_MSVC2022_64bit-Debug/CMakeFiles/install/local.dir
+D:/QT/QT_Creator_WS/ToDoListApp_V1_0/build/Desktop_Qt_6_9_0_MSVC2022_64bit-Debug/CMakeFiles/ToDoListApp_V1_0_autogen_timestamp_deps.dir
+D:/QT/QT_Creator_WS/ToDoListApp_V1_0/build/Desktop_Qt_6_9_0_MSVC2022_64bit-Debug/CMakeFiles/ToDoListApp_V1_0_autogen.dir
